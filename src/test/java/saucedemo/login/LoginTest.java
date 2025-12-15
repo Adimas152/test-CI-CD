@@ -12,7 +12,7 @@ public class LoginTest extends BaseTest{
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         loginPage.login(config.getProperty("standardUser"), config.getProperty("password"));
     }
-//  testing trigger
+//  # testing trigger
     public void testFailedLogin(){
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         loginPage.login(config.getProperty("failedUser"), config.getProperty("password"));
