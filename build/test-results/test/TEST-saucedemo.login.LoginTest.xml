@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="saucedemo.login.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-12-14T07:38:40" hostname="192.168.1.6" time="0.24">
+<testsuite name="saucedemo.login.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-12-15T11:59:04" hostname="192.168.1.4" time="0.246">
   <properties/>
-  <testcase name="testLogin" classname="saucedemo.login.LoginTest" time="0.24"/>
+  <testcase name="testLogin" classname="saucedemo.login.LoginTest" time="0.246"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
